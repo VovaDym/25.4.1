@@ -1,6 +1,6 @@
 #pragma once
 #include <iostream>
-#include "dot.h"
+#include "dots.h"
 
 void scalpel(Dots& dot1, Dots& dot2)
 {
