@@ -2,11 +2,9 @@
 #include "instruments.h"
 #include <iostream>
 
-
-bool isCorrectInstrument(std::string&);
+bool isCorrectInstrument(std::string& instrument);
 
 std::string instruments[]{ "scalpel", "hemostat", "tweezers", "suture" };
-
 
 int main()
 {
